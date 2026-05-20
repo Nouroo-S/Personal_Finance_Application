@@ -1,4 +1,4 @@
-Personal Finance App  
+# Personal Finance App  
 
 To run the program:
 
